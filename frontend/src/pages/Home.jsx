@@ -107,7 +107,7 @@ const experienceData = [
       "Vite",
       "Responsive Design",
     ],
-    live: "https://anshdev-portfolio.netlify.app/", // not deployed
+    live: "https://ansh-dev-portfolio.netlify.app/", // not deployed
     repo: "https://github.com/ANSHM30/Portfolio.git",
   },
   {

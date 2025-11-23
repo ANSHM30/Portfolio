@@ -12,4 +12,4 @@ Disallow: /build/
 Disallow: /api/
 
 # Sitemap URL (replace with your live URL)
-Sitemap: https://anshdev-portfolio.netlify.app/sitemap.xml
+Sitemap: https://ansh-dev-portfolio.netlify.app/sitemap.xml

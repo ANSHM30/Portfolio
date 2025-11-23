@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
     sitemap({
-      hostname: "https://anshdev-portfolio.netlify.app",
+      hostname: "https://ansh-dev-portfolio.netlify.app",
       dynamicRoutes: [
         "/", 
         "/#about",
